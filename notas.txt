@@ -1,0 +1,11 @@
+:failed to load config from C:\Users\yamir\OneDrive\Escritorio\Sistema-ComputoNube\vite.config.ts
+error when starting dev server:
+Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'vite' imported from C:\Users\yamir\OneDrive\Escritorio\Sistema-ComputoNube\vite.config.ts.timestamp-1728605562621-9ef063406c42f.mjs
+    at packageResolve (node:internal/modules/esm/resolve:854:9)
+    at moduleResolve (node:internal/modules/esm/resolve:927:18)
+    at defaultResolve (node:internal/modules/esm/resolve:1169:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:542:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:510:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:239:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:96:40)
+    at link (node:internal/modules/esm/module_job:95:36)
